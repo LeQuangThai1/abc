@@ -1,0 +1,3 @@
+git remote rm origin
+git remote rm origin upstream
+git remote add origin....
